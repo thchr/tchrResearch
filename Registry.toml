@@ -5,5 +5,6 @@ description = "Registry containing private research packages by Thomas Christens
 
 [packages]
 ae5e2be0-a263-11e9-351e-f94dad1eb351 = { name = "Crystalline", path = "C/Crystalline" }
+ba71f38f-f508-439b-ac77-437f86a20aa1 = { name = "SmithNormalForm", path = "S/SmithNormalForm" }
 cb68ded9-7e8c-45d3-bc66-19b5867c0467 = { name = "SymmetryBases", path = "S/SymmetryBases" }
 d7bc101a-f969-4292-96d7-1ebdabfa903f = { name = "PhotonicBandConnectivity", path = "P/PhotonicBandConnectivity" }
