@@ -1,0 +1,3 @@
+name = "PhotonicBandConnectivity"
+uuid = "d7bc101a-f969-4292-96d7-1ebdabfa903f"
+repo = "https://github.com/thchr/PhotonicBandConnectivity.jl.git"
