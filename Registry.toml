@@ -1,0 +1,6 @@
+name = "tchrResearch"
+uuid = "abfa16e4-84c2-49c1-b040-8fed6dc98604"
+repo = "https://github.com/thchr/tchrResearch.git"
+description = "Registry containing private research packages by Thomas Christensen (tchr@mit.edu) and contributors"
+
+[packages]
