@@ -1,7 +1,7 @@
 name = "tchrResearch"
 uuid = "abfa16e4-84c2-49c1-b040-8fed6dc98604"
 repo = "https://github.com/thchr/tchrResearch.git"
-description = "Registry containing private research packages by Thomas Christensen (tchr@mit.edu) and contributors"
+description = "Registry for private research packages by Thomas Christensen (tchr@mit.edu) and contributors, as well as their (otherwise unregistered) dependencies"
 
 [packages]
 ae5e2be0-a263-11e9-351e-f94dad1eb351 = { name = "Crystalline", path = "C/Crystalline" }
